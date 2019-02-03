@@ -1,2 +1,4 @@
 # hw1
-P&amp;E Homework !
+Changing the different formats of the bubbles, like changing the size of the bubbles, the pace of the bubble's movement, 
+and the color of the bubbles.
+
